@@ -1,4 +1,4 @@
-## Eai eu sou o Gabs👋
+## Eai eu sou o Gabs👋 (Em Construção)
 
 
 - 🔭 I’m currently working on ...
