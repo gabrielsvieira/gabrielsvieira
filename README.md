@@ -1,9 +1,8 @@
 ## Eai eu sou o Gabs👋 (Em Construção)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning POO
 - 📫 How to reach me: gabrielsvieira.dev@gmail.com
 
 
